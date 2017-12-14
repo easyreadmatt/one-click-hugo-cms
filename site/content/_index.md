@@ -1,5 +1,5 @@
 ---
-title: Hello! This Is A Test
+title: This Is The Title
 subtitle: This seems to be working...
 image: /img/home-jumbotron.jpg
 blurb:
